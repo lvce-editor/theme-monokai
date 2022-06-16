@@ -1,0 +1,11 @@
+{
+  "id": "builtin.theme-monokai",
+  "name": "Monokai Theme",
+  "colorThemes": [
+    {
+      "id": "monokai",
+      "label": "Monokai",
+      "path": "color-theme.json"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "type": "dark",
+  "colors": {
+    "ActivityBarBackground": "#272822",
+    "ActivityBarForeground": "rgba(248, 248, 242, 0.4)",
+    "ActivityBarActiveForeground": "#f8f8f2",
+
+    "BadgeBackground": "rgb(0, 122, 204)",
+    "BadgeForeground": "#fff",
+
+    "ContextMenuBackground": "rgb(30, 31, 28)",
+
+    "EditorBackGround": "",
+    "EditorScrollBarBackground": "",
+    "EditorCursorBackground": "",
+
+    "InputBackground": "#414339",
+
+    "ListActiveSelectionBackground": "#414339",
+    "ListActiveSelectionForeground": "#fff",
+    "ListHoverBackground": "#3e3d32",
+    "ListHoverForeground": "",
+    "ListInactiveSelectionBackground": "#414339",
+    "ListForeground": "rgb(204, 204, 204)",
+
+    "MainBackground": "#272822",
+
+    "PanelBackground": "",
+    "PanelBorderTopColor": "",
+
+    "QuickPickBackground": "#1e1f1c",
+
+    "SideBarBackground": "#1e1f1c",
+
+    "StatusBarBackground": "#414339",
+    "StatusBarBorderTopColor": "",
+
+    "TabActiveForeground": "white",
+    "TabForeground": "rgb(204, 204, 199)",
+    "TabActiveBackground": "rgb(39, 40, 34)",
+    "TabBackground": "rgb(52, 53, 47)",
+
+    "TabsBackground": "rgb(30, 31, 28)",
+
+    "TitleBarBackground": "rgb(30, 31, 28)",
+    "TitleBarBorderBottomColor": "",
+    "TitleBarColor": "",
+    "TitleBarColorInactive": ""
+  },
+  "tokenColors": [
+    {
+      "name": "CssSelector",
+      "foreground": ""
+    },
+    {
+      "name": "CssPropertyName",
+      "foreground": ""
+    },
+    {
+      "name": "CssPropertyValue",
+      "foreground": ""
+    },
+    {
+      "name": "TagName",
+      "foreground": ""
+    },
+    {
+      "name": "AttributeName",
+      "foreground": ""
+    },
+    {
+      "name": "String",
+      "foreground": "#CFCFC2"
+    },
+    {
+      "name": "PunctuationString",
+      "foreground": ""
+    },
+    {
+      "name": "JsonPropertyName",
+      "foreground": "#66D9EF"
+    }
+  ]
+}
