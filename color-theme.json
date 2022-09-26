@@ -79,6 +79,38 @@
     {
       "name": "JsonPropertyName",
       "foreground": "#66D9EF"
+    },
+    {
+      "name": "Numeric",
+      "foreground": "#ae81ff"
+    },
+    {
+      "name": "Heading",
+      "foreground": "#a6e22e"
+    },
+    {
+      "name": "CssSelector",
+      "foreground": "#a6e22e"
+    },
+    {
+      "name": "CssPropertyName",
+      "foreground": "#66d9ef"
+    },
+    {
+      "name": "TagName",
+      "foreground": "#f92672"
+    },
+    {
+      "name": "AttributeName",
+      "foreground": "#a6e22e"
+    },
+    {
+      "name": "Comment",
+      "foreground": "#88846f"
+    },
+    {
+      "name": "LanguageConstant",
+      "foreground": "#ae81ff"
     }
   ]
 }
