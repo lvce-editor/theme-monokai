@@ -8,7 +8,7 @@
     "BadgeBackground": "rgb(0, 122, 204)",
     "BadgeForeground": "#fff",
 
-    "ContextMenuBackground": "rgb(30, 31, 28)",
+    "MenuBackground": "rgb(30, 31, 28)",
 
     "EditorBackGround": "",
     "EditorScrollBarBackground": "",
