@@ -73,6 +73,10 @@
       "foreground": "#CFCFC2"
     },
     {
+      "name": "JsonPropertyValueString",
+      "foreground": "#CFCFC2"
+    },
+    {
       "name": "PunctuationString",
       "foreground": ""
     },
