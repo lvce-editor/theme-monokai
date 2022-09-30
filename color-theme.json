@@ -12,7 +12,8 @@
 
     "EditorBackGround": "",
     "EditorScrollBarBackground": "",
-    "EditorCursorBackground": "",
+    "EditorCursorBackground": "white",
+    "EditorSelectionBackground": "rgba(135, 139, 145, 0.25)",
 
     "InputBackground": "#414339",
 
