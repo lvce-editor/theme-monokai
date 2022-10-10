@@ -122,6 +122,14 @@
     {
       "name": "LanguageConstant",
       "foreground": "#ae81ff"
+    },
+    {
+      "name": "YamlPropertyName",
+      "foreground": "#F92672"
+    },
+    {
+      "name": "YamlPropertyValueString",
+      "foreground": "#E6DB74"
     }
   ]
 }
