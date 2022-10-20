@@ -17,7 +17,7 @@
     "MenuBackground": "rgb(30, 31, 28)",
 
     "EditorBackGround": "",
-    "EditorScrollBarBackground": "",
+    "EditorScrollBarBackground": "rgba(121, 121, 121, 0.4)",
     "EditorCursorBackground": "white",
     "EditorSelectionBackground": "rgba(135, 139, 145, 0.25)",
 
@@ -130,6 +130,22 @@
     {
       "name": "YamlPropertyValueString",
       "foreground": "#E6DB74"
+    },
+    {
+      "name": "Function",
+      "foreground": "#A6E22E"
+    },
+    {
+      "name": "Keyword",
+      "foreground": "#66D9EF"
+    },
+    {
+      "name": "KeywordThis",
+      "foreground": "#FD971F"
+    },
+    {
+      "name": "KeywordControl",
+      "foreground": "#F92672"
     }
   ]
 }
