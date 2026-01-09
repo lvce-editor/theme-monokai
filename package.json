@@ -2,12 +2,10 @@
   "name": "theme-monokai",
   "version": "0.0.0-dev",
   "type": "module",
-  "description": "",
   "scripts": {
     "dev": "node ./node_modules/@lvce-editor/server/bin/server.js --only-extension=. --theme=monokai"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Lvce Editor",
   "license": "MIT",
   "devDependencies": {
     "@lvce-editor/package-extension": "^0.0.5",
