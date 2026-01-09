@@ -4,7 +4,8 @@
   "type": "module",
   "description": "",
   "scripts": {
-    "dev": "node ./node_modules/@lvce-editor/server/bin/server.js --only-extension=. --theme=monokai"
+    "dev": "node ./node_modules/@lvce-editor/server/bin/server.js --only-extension=. --theme=monokai",
+    "lint": "eslint . && prettier --check ."
   },
   "keywords": [],
   "author": "",
