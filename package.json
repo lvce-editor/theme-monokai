@@ -2,14 +2,18 @@
   "name": "theme-monokai",
   "version": "0.0.0-dev",
   "type": "module",
+  "description": "",
   "scripts": {
     "dev": "node ./node_modules/@lvce-editor/server/bin/server.js --only-extension=. --theme=monokai"
   },
-  "author": "Lvce Editor",
+  "keywords": [],
+  "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@lvce-editor/eslint-config": "^4.4.0",
     "@lvce-editor/package-extension": "^0.0.5",
-    "@lvce-editor/server": "^0.10.0"
+    "@lvce-editor/server": "^0.10.0",
+    "eslint": "^9.39.2"
   },
   "prettier": {
     "semi": false,
