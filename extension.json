@@ -7,5 +7,6 @@
       "label": "Monokai",
       "path": "color-theme.json"
     }
-  ]
+  ],
+  "repository": "https://github.com/lvce-editor/theme-monokai"
 }
