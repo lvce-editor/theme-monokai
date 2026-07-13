@@ -5,19 +5,19 @@
     "Themes"
   ],
   "type": "module",
-  "description": "",
+  "description": "Monokai theme for LVCE",
   "scripts": {
     "dev": "node ./node_modules/@lvce-editor/server/bin/server.js --only-extension=. --theme=monokai",
     "lint": "eslint . && prettier --check ."
   },
-  "keywords": [],
-  "author": "",
+  "author": "Lvce Editor",
   "license": "MIT",
   "devDependencies": {
     "@lvce-editor/eslint-config": "^16.3.0",
     "@lvce-editor/package-extension": "^3.2.0",
     "@lvce-editor/server": "^0.70.20",
-    "eslint": "^10.7.0"
+    "eslint": "^10.7.0",
+    "prettier": "^3.9.5"
   },
   "prettier": {
     "semi": false,
