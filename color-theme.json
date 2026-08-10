@@ -140,6 +140,10 @@
       "foreground": "#66D9EF"
     },
     {
+      "name": "KeywordOperator",
+      "foreground": "#F92672"
+    },
+    {
       "name": "KeywordThis",
       "foreground": "#FD971F"
     },
